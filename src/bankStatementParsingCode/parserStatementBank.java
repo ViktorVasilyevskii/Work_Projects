@@ -1,3 +1,4 @@
+package bankStatementParsingCode;
 
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
