@@ -1,0 +1,9 @@
+1. Открываем git bash
+2. cd D:/donwload - (D:/donwload - путь к папке в которую будем клонировать репозиторий с github)
+3. git clone https://github.com/%Name_Git_Hub%/%Name_Repositories% - (заходим в нужный репозиторий в git hub и копируем ссылку на него)
+4. cd D:/donwload/%Name_Repositories% - (в git bash открываем папку скаченную на компьютер)
+5. git add . - (в конце через пробел точка. Точка обозначает что все файлы добавить в репозиторий)
+6. git status - (узнаём какие изменения необходимо закомитеть)
+7.
+8. git push -u origin master - (отправляем исправления на git hub)
+
